@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on VR, Cheese, VR Education and Research.
 - 📫 How to reach me usually [Twitter](https://twitter.com/ProbablePrime)
 
-- I work on [Resonite](https://resonite.com]
+- I work on [Resonite](https://resonite.com)
 - I do cool VR stuff!
