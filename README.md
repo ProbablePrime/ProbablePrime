@@ -17,13 +17,9 @@ I enjoy messing around with the latest technologies.
 - [Void](https://voidzero.dev)
 - Any CSS Framework that isn't Tailwind
 - Never any React
-- Markdown (IYKYK)
+- Markdown 
 
 # Least Favorite Tech Stacks
-- Legacy Database ORMs
-- Code that violates DRY, SOLID etc.
-- Languages that support Null
-- Codebases that don't handle warnings, especially null ones
 - Java
 - React
 
